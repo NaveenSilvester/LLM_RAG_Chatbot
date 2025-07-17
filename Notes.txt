@@ -1,0 +1,14 @@
+#
+# To activate this environment, use
+#
+#     $ conda activate E:\ChatBot\chatbot\venv
+#
+# To deactivate an active environment, use    
+#
+#     $ conda deactivate
+
+
+
+
+pip install -r requirements.txt
+
